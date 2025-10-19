@@ -1,0 +1,32 @@
+2025-10-19 01:33:57,560 - INFO - Created data directory: data
+2025-10-19 01:33:57,560 - INFO - Starting comprehensive stock data download...
+2025-10-19 01:33:57,560 - INFO - Downloading data for: Novo Nordisk (NVO), Eli Lilly (LLY), Apple (AAPL), NVIDIA (NVDA), Genentech (DNA)
+2025-10-19 01:33:57,560 - INFO - Downloading data for NVO...
+2025-10-19 01:33:58,106 - INFO - Successfully downloaded 502 records for NVO
+2025-10-19 01:33:58,107 - INFO - Downloading data for LLY...
+2025-10-19 01:33:58,409 - INFO - Successfully downloaded 502 records for LLY
+2025-10-19 01:33:58,409 - INFO - Downloading data for AAPL...
+2025-10-19 01:33:58,557 - INFO - Successfully downloaded 502 records for AAPL
+2025-10-19 01:33:58,557 - INFO - Downloading data for NVDA...
+2025-10-19 01:33:58,764 - INFO - Successfully downloaded 502 records for NVDA
+2025-10-19 01:33:58,765 - INFO - Downloading data for DNA...
+2025-10-19 01:33:58,944 - INFO - Successfully downloaded 502 records for DNA
+2025-10-19 01:33:58,957 - INFO - Data saved to data/NVO_Novo_Nordisk_data.csv
+2025-10-19 01:33:58,960 - INFO - Data saved to data/NVO_Novo_Nordisk_data.json
+2025-10-19 01:33:58,965 - INFO - Data saved to data/LLY_Eli_Lilly_data.csv
+2025-10-19 01:33:58,967 - INFO - Data saved to data/LLY_Eli_Lilly_data.json
+2025-10-19 01:33:58,972 - INFO - Data saved to data/AAPL_Apple_data.csv
+2025-10-19 01:33:58,974 - INFO - Data saved to data/AAPL_Apple_data.json
+2025-10-19 01:33:58,979 - INFO - Data saved to data/NVDA_NVIDIA_data.csv
+2025-10-19 01:33:58,981 - INFO - Data saved to data/NVDA_NVIDIA_data.json
+2025-10-19 01:33:58,985 - INFO - Data saved to data/DNA_Genentech_data.csv
+2025-10-19 01:33:58,987 - INFO - Data saved to data/DNA_Genentech_data.json
+2025-10-19 01:33:58,989 - INFO - Combined data from 5 stocks into 2510 total records
+2025-10-19 01:33:59,007 - INFO - Data saved to data/all_stocks_combined.csv
+2025-10-19 01:33:59,017 - INFO - Data saved to data/all_stocks_combined.json
+2025-10-19 01:33:59,817 - INFO - Data saved to data/all_stocks_combined.parquet
+2025-10-19 01:33:59,820 - INFO - Data saved to data/stock_summary_stats.csv
+2025-10-19 01:33:59,820 - INFO - Data saved to data/stock_summary_stats.json
+2025-10-19 01:33:59,820 - INFO - Stock data download completed successfully!
+2025-10-19 01:33:59,820 - INFO - Data saved in directory: data
+2025-10-19 01:33:59,820 - INFO - Successfully downloaded data for 5 stocks

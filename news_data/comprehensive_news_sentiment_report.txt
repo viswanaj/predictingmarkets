@@ -1,0 +1,112 @@
+================================================================================
+COMPREHENSIVE NEWS SENTIMENT ANALYSIS REPORT
+================================================================================
+
+📰 OVERALL SUMMARY
+--------------------------------------------------
+Total articles analyzed: 75
+Companies analyzed: 5
+Analysis period: 2 years (2023-10-18 to 2025-10-17) - MATCHING STOCK DATA PERIOD
+Data sources: Historical Events Database, Simulated Earnings Events, Market Events
+
+📊 Apple Inc. (AAPL)
+--------------------------------------------------
+Total articles: 15
+Good news: 10 (66.7%)
+Bad news: 4 (26.7%)
+Neutral news: 1 (6.7%)
+Average sentiment score: 0.356
+Overall sentiment trend: POSITIVE
+Date range: 2023-10-25 to 2024-11-20
+
+Notable articles:
+  1. 😊 iPhone 16 Launch Exceeds Expectations
+     Score: 0.900 | Date: 2024-09-15
+  2. 😊 Apple Inc. Reports Q3 2023 Earnings Results
+     Score: 0.800 | Date: 2023-10-25
+  3. 😊 Apple Reports Strong Q1 Earnings
+     Score: 0.800 | Date: 2024-01-25
+
+📊 NVIDIA Corporation (NVDA)
+--------------------------------------------------
+Total articles: 15
+Good news: 10 (66.7%)
+Bad news: 2 (13.3%)
+Neutral news: 3 (20.0%)
+Average sentiment score: 0.403
+Overall sentiment trend: POSITIVE
+Date range: 2023-10-25 to 2024-11-20
+
+Notable articles:
+  1. 😊 NVIDIA Stock Split and Strong Guidance
+     Score: 0.900 | Date: 2024-02-14
+  2. 😊 NVIDIA Reports Record AI Chip Revenue
+     Score: 0.900 | Date: 2024-05-22
+  3. 😊 NVIDIA Corporation Reports Q4 2023 Earnings Results
+     Score: 0.800 | Date: 2024-01-25
+
+📊 Eli Lilly and Company (LLY)
+--------------------------------------------------
+Total articles: 15
+Good news: 10 (66.7%)
+Bad news: 2 (13.3%)
+Neutral news: 3 (20.0%)
+Average sentiment score: 0.401
+Overall sentiment trend: POSITIVE
+Date range: 2023-10-25 to 2024-11-20
+
+Notable articles:
+  1. 😊 Eli Lilly Weight Loss Drug Gets FDA Approval
+     Score: 0.900 | Date: 2024-03-08
+  2. 😊 Eli Lilly and Company Reports Q3 2023 Earnings Results
+     Score: 0.800 | Date: 2023-10-25
+  3. 😊 Eli Lilly Reports Strong Q4 Earnings
+     Score: 0.800 | Date: 2024-01-30
+
+📊 Novo Nordisk A/S (NVO)
+--------------------------------------------------
+Total articles: 15
+Good news: 9 (60.0%)
+Bad news: 3 (20.0%)
+Neutral news: 3 (20.0%)
+Average sentiment score: 0.329
+Overall sentiment trend: POSITIVE
+Date range: 2023-10-25 to 2024-11-20
+
+Notable articles:
+  1. 😊 Novo Nordisk Ozempic Sales Surge
+     Score: 0.900 | Date: 2024-04-15
+  2. 😊 Novo Nordisk A/S Reports Q3 2023 Earnings Results
+     Score: 0.800 | Date: 2023-10-25
+  3. 😊 Novo Nordisk Reports Record Revenue
+     Score: 0.800 | Date: 2024-02-07
+
+📊 Genentech (Roche) (DNA)
+--------------------------------------------------
+Total articles: 15
+Good news: 12 (80.0%)
+Bad news: 1 (6.7%)
+Neutral news: 2 (13.3%)
+Average sentiment score: 0.473
+Overall sentiment trend: POSITIVE
+Date range: 2023-10-25 to 2024-11-20
+
+Notable articles:
+  1. 😊 Genentech Cancer Drug Shows Breakthrough Results
+     Score: 0.900 | Date: 2024-05-30
+  2. 😊 Genentech (Roche) Reports Q3 2023 Earnings Results
+     Score: 0.800 | Date: 2023-10-25
+  3. 😊 Genentech (Roche) Reports Q4 2023 Earnings Results
+     Score: 0.800 | Date: 2024-01-25
+
+💡 KEY INSIGHTS
+--------------------------------------------------
+• Most positive sentiment: Genentech (Roche) (0.473)
+• Most negative sentiment: Novo Nordisk A/S (0.329)
+
+📈 TRADING IMPLICATIONS:
+• News sentiment data now matches the exact 2-year stock data period
+• Historical events provide context for major price movements
+• Sentiment trends can be correlated with stock performance
+• Use sentiment data for backtesting trading strategies
+• Combine with volatility analysis for comprehensive market prediction

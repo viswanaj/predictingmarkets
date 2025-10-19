@@ -1,0 +1,63 @@
+2025-10-19 02:07:05,387 - INFO - Created news data directory: news_data
+2025-10-19 02:07:05,388 - INFO - Fetching news for Apple Inc....
+2025-10-19 02:07:06,278 - ERROR - Error fetching from https://feeds.finance.yahoo.com/rss/2.0/headline: 429 Client Error: Too Many Requests for url: https://feeds.finance.yahoo.com/rss/2.0/headline
+2025-10-19 02:07:08,255 - INFO - Fetched 10 articles from https://feeds.marketwatch.com/marketwatch/topstories/
+2025-10-19 02:07:09,851 - ERROR - Error fetching from https://feeds.reuters.com/reuters/businessNews: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x151c3da00>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-19 02:07:11,290 - INFO - Fetched 30 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-10-19 02:07:12,298 - INFO - Found 0 relevant articles for Apple Inc.
+2025-10-19 02:07:14,303 - INFO - Fetching news for NVIDIA Corporation...
+2025-10-19 02:07:14,615 - ERROR - Error fetching from https://feeds.finance.yahoo.com/rss/2.0/headline: 429 Client Error: Too Many Requests for url: https://feeds.finance.yahoo.com/rss/2.0/headline
+2025-10-19 02:07:15,899 - INFO - Fetched 10 articles from https://feeds.marketwatch.com/marketwatch/topstories/
+2025-10-19 02:07:16,919 - ERROR - Error fetching from https://feeds.reuters.com/reuters/businessNews: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x15246d190>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-19 02:07:18,353 - INFO - Fetched 30 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-10-19 02:07:19,365 - INFO - Found 18 relevant articles for NVIDIA Corporation
+2025-10-19 02:07:21,373 - INFO - Fetching news for Eli Lilly and Company...
+2025-10-19 02:07:21,603 - ERROR - Error fetching from https://feeds.finance.yahoo.com/rss/2.0/headline: 429 Client Error: Too Many Requests for url: https://feeds.finance.yahoo.com/rss/2.0/headline
+2025-10-19 02:07:22,845 - INFO - Fetched 10 articles from https://feeds.marketwatch.com/marketwatch/topstories/
+2025-10-19 02:07:23,871 - ERROR - Error fetching from https://feeds.reuters.com/reuters/businessNews: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x151c3d9d0>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-19 02:07:25,282 - INFO - Fetched 30 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-10-19 02:07:26,289 - INFO - Found 0 relevant articles for Eli Lilly and Company
+2025-10-19 02:07:28,294 - INFO - Fetching news for Novo Nordisk A/S...
+2025-10-19 02:07:28,486 - ERROR - Error fetching from https://feeds.finance.yahoo.com/rss/2.0/headline: 429 Client Error: Too Many Requests for url: https://feeds.finance.yahoo.com/rss/2.0/headline
+2025-10-19 02:07:30,326 - INFO - Fetched 10 articles from https://feeds.marketwatch.com/marketwatch/topstories/
+2025-10-19 02:07:32,181 - ERROR - Error fetching from https://feeds.reuters.com/reuters/businessNews: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x152479cd0>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-19 02:07:33,936 - INFO - Fetched 30 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-10-19 02:07:34,941 - INFO - Found 0 relevant articles for Novo Nordisk A/S
+2025-10-19 02:07:36,954 - INFO - Fetching news for Genentech (Roche)...
+2025-10-19 02:07:38,394 - ERROR - Error fetching from https://feeds.finance.yahoo.com/rss/2.0/headline: 429 Client Error: Too Many Requests for url: https://feeds.finance.yahoo.com/rss/2.0/headline
+2025-10-19 02:07:40,989 - INFO - Fetched 10 articles from https://feeds.marketwatch.com/marketwatch/topstories/
+2025-10-19 02:07:42,431 - ERROR - Error fetching from https://feeds.reuters.com/reuters/businessNews: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1524e0560>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-19 02:07:44,691 - INFO - Fetched 30 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-10-19 02:07:45,694 - INFO - Found 0 relevant articles for Genentech (Roche)
+2025-10-19 02:07:47,725 - INFO - Saved 18 articles for NVDA
+2025-10-19 02:14:07,479 - INFO - Fetching news for Apple Inc....
+2025-10-19 02:14:07,647 - ERROR - Error fetching from https://feeds.finance.yahoo.com/rss/2.0/headline: 429 Client Error: Too Many Requests for url: https://feeds.finance.yahoo.com/rss/2.0/headline
+2025-10-19 02:14:09,037 - INFO - Fetched 10 articles from https://feeds.marketwatch.com/marketwatch/topstories/
+2025-10-19 02:14:10,093 - ERROR - Error fetching from https://feeds.reuters.com/reuters/businessNews: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x13a21de20>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-19 02:14:11,591 - INFO - Fetched 30 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-10-19 02:14:12,597 - INFO - Found 0 relevant articles for Apple Inc.
+2025-10-19 02:14:14,599 - INFO - Fetching news for NVIDIA Corporation...
+2025-10-19 02:14:14,736 - ERROR - Error fetching from https://feeds.finance.yahoo.com/rss/2.0/headline: 429 Client Error: Too Many Requests for url: https://feeds.finance.yahoo.com/rss/2.0/headline
+2025-10-19 02:14:15,914 - INFO - Fetched 10 articles from https://feeds.marketwatch.com/marketwatch/topstories/
+2025-10-19 02:14:16,919 - ERROR - Error fetching from https://feeds.reuters.com/reuters/businessNews: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x13ab49610>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-19 02:14:18,209 - INFO - Fetched 30 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-10-19 02:14:19,217 - INFO - Found 18 relevant articles for NVIDIA Corporation
+2025-10-19 02:14:21,223 - INFO - Fetching news for Eli Lilly and Company...
+2025-10-19 02:14:21,371 - ERROR - Error fetching from https://feeds.finance.yahoo.com/rss/2.0/headline: 429 Client Error: Too Many Requests for url: https://feeds.finance.yahoo.com/rss/2.0/headline
+2025-10-19 02:14:22,723 - INFO - Fetched 10 articles from https://feeds.marketwatch.com/marketwatch/topstories/
+2025-10-19 02:14:23,731 - ERROR - Error fetching from https://feeds.reuters.com/reuters/businessNews: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x13ab48830>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-19 02:14:25,057 - INFO - Fetched 30 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-10-19 02:14:26,063 - INFO - Found 0 relevant articles for Eli Lilly and Company
+2025-10-19 02:14:28,067 - INFO - Fetching news for Novo Nordisk A/S...
+2025-10-19 02:14:28,206 - ERROR - Error fetching from https://feeds.finance.yahoo.com/rss/2.0/headline: 429 Client Error: Too Many Requests for url: https://feeds.finance.yahoo.com/rss/2.0/headline
+2025-10-19 02:14:29,446 - INFO - Fetched 10 articles from https://feeds.marketwatch.com/marketwatch/topstories/
+2025-10-19 02:14:30,451 - ERROR - Error fetching from https://feeds.reuters.com/reuters/businessNews: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x13ab5d610>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-19 02:14:32,000 - INFO - Fetched 30 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-10-19 02:14:33,006 - INFO - Found 0 relevant articles for Novo Nordisk A/S
+2025-10-19 02:14:35,007 - INFO - Fetching news for Genentech (Roche)...
+2025-10-19 02:14:35,172 - ERROR - Error fetching from https://feeds.finance.yahoo.com/rss/2.0/headline: 429 Client Error: Too Many Requests for url: https://feeds.finance.yahoo.com/rss/2.0/headline
+2025-10-19 02:14:36,377 - INFO - Fetched 10 articles from https://feeds.marketwatch.com/marketwatch/topstories/
+2025-10-19 02:14:37,385 - ERROR - Error fetching from https://feeds.reuters.com/reuters/businessNews: HTTPSConnectionPool(host='feeds.reuters.com', port=443): Max retries exceeded with url: /reuters/businessNews (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x13ac0c5f0>: Failed to resolve 'feeds.reuters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-10-19 02:14:38,743 - INFO - Fetched 30 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-10-19 02:14:39,749 - INFO - Found 0 relevant articles for Genentech (Roche)
+2025-10-19 02:14:41,760 - INFO - Saved 18 articles for NVDA

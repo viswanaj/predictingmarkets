@@ -1,0 +1,20 @@
+{
+  "download_timestamp": "2025-10-19T01:33:59.820477",
+  "period": "2y",
+  "interval": "1d",
+  "stocks": {
+    "Novo Nordisk": "NVO",
+    "Eli Lilly": "LLY",
+    "Apple": "AAPL",
+    "NVIDIA": "NVDA",
+    "Genentech": "DNA"
+  },
+  "successful_downloads": [
+    "NVO",
+    "LLY",
+    "AAPL",
+    "NVDA",
+    "DNA"
+  ],
+  "total_records": 2510
+}

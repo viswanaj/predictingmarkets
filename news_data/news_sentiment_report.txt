@@ -1,0 +1,38 @@
+================================================================================
+NEWS SENTIMENT ANALYSIS REPORT
+================================================================================
+
+📰 OVERALL SUMMARY
+--------------------------------------------------
+Total articles analyzed: 18
+Companies analyzed: 5
+Analysis period: Last 730 days (2 years) - matching stock data period
+
+📊 NVIDIA Corporation (NVDA)
+--------------------------------------------------
+Total articles: 18
+Good news: 6 (33.3%)
+Bad news: 2 (11.1%)
+Neutral news: 10 (55.6%)
+Average sentiment score: 0.200
+Overall sentiment trend: POSITIVE
+
+Recent notable articles:
+  1. 😞 Bubble Debate Drives Korean Retail Investors to Risky VIX Bets...
+     Score: -1.000 | Date: 2025-10-19
+  2. 😊 Global Finance Chiefs Wait on Trump and Xi as Trade War Simmers...
+     Score: 1.000 | Date: 2025-10-17
+  3. 😊 Protesters Take Part in A "No Kings" in Washington, D.C....
+     Score: 1.000 | Date: 2025-10-18
+
+💡 KEY INSIGHTS
+--------------------------------------------------
+• Most positive sentiment: NVIDIA Corporation (0.200)
+• Most negative sentiment: NVIDIA Corporation (0.200)
+
+📈 TRADING IMPLICATIONS:
+• Positive news sentiment may indicate upward price pressure
+• Negative news sentiment may indicate downward price pressure
+• Neutral sentiment suggests stable conditions
+• News sentiment can be used as a contrarian indicator
+• Combine news sentiment with technical analysis for better signals

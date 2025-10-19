@@ -1,0 +1,2 @@
+Ticker,Company_Name,Total_Articles,Good_Articles,Bad_Articles,Neutral_Articles,Good_Percentage,Bad_Percentage,Neutral_Percentage,Average_Sentiment_Score,Sentiment_Trend
+NVDA,NVIDIA Corporation,18,6,2,10,33.33333333333333,11.11111111111111,55.55555555555556,0.2,Positive

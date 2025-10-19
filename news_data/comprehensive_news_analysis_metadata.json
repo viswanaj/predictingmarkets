@@ -1,0 +1,22 @@
+{
+  "analysis_timestamp": "2025-10-19T02:16:23.219535",
+  "analysis_period": "2 years (2023-10-18 to 2025-10-17)",
+  "stock_data_period": "2023-10-18 to 2025-10-17",
+  "total_articles": 75,
+  "companies_analyzed": [
+    "AAPL",
+    "NVDA",
+    "LLY",
+    "NVO",
+    "DNA"
+  ],
+  "data_sources": [
+    "Historical Events Database",
+    "Simulated Earnings Events",
+    "Simulated Market Events"
+  ],
+  "sentiment_keywords": {
+    "positive_count": 55,
+    "negative_count": 65
+  }
+}

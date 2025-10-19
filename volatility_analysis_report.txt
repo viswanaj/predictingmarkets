@@ -1,0 +1,132 @@
+================================================================================
+STOCK VOLATILITY ANALYSIS REPORT
+================================================================================
+
+📊 VOLATILITY SUMMARY
+--------------------------------------------------
+Ranking by Daily Volatility (Most to Least Volatile):
+  1. Genentech (Roche) (DNA): 6.57%
+  2. NVIDIA Corporation (NVDA): 3.20%
+  3. Novo Nordisk A/S (NVO): 2.63%
+  4. Eli Lilly and Company (LLY): 2.26%
+  5. Apple Inc. (AAPL): 1.76%
+
+📈 Apple Inc. (AAPL)
+--------------------------------------------------
+Volatility Metrics:
+  Daily Volatility: 1.76%
+  Weekly Volatility: 4.08%
+  Monthly Volatility: 6.97%
+  Annual Volatility: 13.32%
+
+Daily Volatility Percentiles:
+  25th Percentile: 1.12%
+  50th Percentile (Median): 1.48%
+  75th Percentile: 1.81%
+  95th Percentile: 2.42%
+
+Risk Assessment: MEDIUM
+
+📈 Genentech (Roche) (DNA)
+--------------------------------------------------
+Volatility Metrics:
+  Daily Volatility: 6.57%
+  Weekly Volatility: 15.32%
+  Monthly Volatility: 26.37%
+  Annual Volatility: 59.23%
+
+Daily Volatility Percentiles:
+  25th Percentile: 5.41%
+  50th Percentile (Median): 6.42%
+  75th Percentile: 7.42%
+  95th Percentile: 8.66%
+
+Risk Assessment: HIGH
+
+📈 Eli Lilly and Company (LLY)
+--------------------------------------------------
+Volatility Metrics:
+  Daily Volatility: 2.26%
+  Weekly Volatility: 5.21%
+  Monthly Volatility: 9.08%
+  Annual Volatility: 21.71%
+
+Daily Volatility Percentiles:
+  25th Percentile: 1.47%
+  50th Percentile (Median): 1.87%
+  75th Percentile: 2.40%
+  95th Percentile: 3.99%
+
+Risk Assessment: MEDIUM-HIGH
+
+📈 NVIDIA Corporation (NVDA)
+--------------------------------------------------
+Volatility Metrics:
+  Daily Volatility: 3.20%
+  Weekly Volatility: 6.74%
+  Monthly Volatility: 13.53%
+  Annual Volatility: 70.01%
+
+Daily Volatility Percentiles:
+  25th Percentile: 2.05%
+  50th Percentile (Median): 2.64%
+  75th Percentile: 3.87%
+  95th Percentile: 5.30%
+
+Risk Assessment: HIGH
+
+📈 Novo Nordisk A/S (NVO)
+--------------------------------------------------
+Volatility Metrics:
+  Daily Volatility: 2.63%
+  Weekly Volatility: 5.95%
+  Monthly Volatility: 10.99%
+  Annual Volatility: 24.15%
+
+Daily Volatility Percentiles:
+  25th Percentile: 1.60%
+  50th Percentile (Median): 2.10%
+  75th Percentile: 2.94%
+  95th Percentile: 4.42%
+
+Risk Assessment: MEDIUM-HIGH
+
+🔄 CROSS-TIME HORIZON ANALYSIS
+--------------------------------------------------
+Apple Inc. (AAPL):
+  ⚠ Weekly volatility higher than expected
+  ✓ Monthly volatility scales properly
+  ✓ Annual volatility scales properly
+
+Genentech (Roche) (DNA):
+  ⚠ Weekly volatility higher than expected
+  ✓ Monthly volatility scales properly
+  ✓ Annual volatility scales properly
+
+Eli Lilly and Company (LLY):
+  ⚠ Weekly volatility higher than expected
+  ✓ Monthly volatility scales properly
+  ✓ Annual volatility scales properly
+
+NVIDIA Corporation (NVDA):
+  ✓ Weekly volatility scales properly
+  ✓ Monthly volatility scales properly
+  ⚠ Annual volatility higher than expected
+
+Novo Nordisk A/S (NVO):
+  ⚠ Weekly volatility higher than expected
+  ✓ Monthly volatility scales properly
+  ✓ Annual volatility scales properly
+
+💡 KEY INSIGHTS
+--------------------------------------------------
+• Most volatile stock: Genentech (Roche) (6.57%)
+• Least volatile stock: Apple Inc. (1.76%)
+• Average daily volatility across all stocks: 3.28%
+
+📊 TRADING IMPLICATIONS:
+• Higher volatility = Higher risk but potentially higher returns
+• Daily volatility useful for day trading risk management
+• Weekly/Monthly volatility important for swing trading
+• Annual volatility crucial for long-term portfolio allocation
+• Volatility clustering often occurs - high vol periods followed by high vol

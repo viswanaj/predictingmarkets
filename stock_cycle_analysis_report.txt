@@ -1,0 +1,115 @@
+================================================================================
+STOCK CYCLE ANALYSIS REPORT
+================================================================================
+
+📊 Apple Inc. (AAPL)
+--------------------------------------------------
+📅 Seasonal Patterns:
+   Best Month: 11 (0.39%)
+   Worst Month: 3 (-0.32%)
+   Best Day: Wed (0.21%)
+   Worst Day: Thu (-0.07%)
+🔄 Swing Patterns:
+   Average Swing Duration: 22.8 days
+   Average Swing Magnitude: 1.15%
+   Total Swing Highs: 31
+   Total Swing Lows: 15
+⚡ Momentum Cycles:
+   Average RSI Cycle: 63.4 days
+   Average MACD Cycle: 53.7 days
+🌊 FFT Cycle Analysis:
+   Cycle 1: 12.2 days (power: 0.81)
+   Cycle 2: 15.2 days (power: 0.85)
+   Cycle 3: 6.7 days (power: 1.10)
+
+📊 Genentech (Roche) (DNA)
+--------------------------------------------------
+📅 Seasonal Patterns:
+   Best Month: 12 (1.18%)
+   Worst Month: 8 (-1.68%)
+   Best Day: Wed (0.55%)
+   Worst Day: Fri (-0.62%)
+🔄 Swing Patterns:
+   Average Swing Duration: 33.1 days
+   Average Swing Magnitude: -1.44%
+   Total Swing Highs: 21
+   Total Swing Lows: 36
+⚡ Momentum Cycles:
+   Average RSI Cycle: 72.0 days
+   Average MACD Cycle: 54.4 days
+🌊 FFT Cycle Analysis:
+   Cycle 1: 17.3 days (power: 2.87)
+   Cycle 2: 9.5 days (power: 2.89)
+   Cycle 3: 17.9 days (power: 3.18)
+
+📊 Eli Lilly and Company (LLY)
+--------------------------------------------------
+📅 Seasonal Patterns:
+   Best Month: 2 (0.75%)
+   Worst Month: 7 (-0.36%)
+   Best Day: Wed (0.29%)
+   Worst Day: Thu (-0.35%)
+🔄 Swing Patterns:
+   Average Swing Duration: 16.5 days
+   Average Swing Magnitude: 0.92%
+   Total Swing Highs: 40
+   Total Swing Lows: 26
+⚡ Momentum Cycles:
+   Average RSI Cycle: 65.4 days
+   Average MACD Cycle: 66.9 days
+🌊 FFT Cycle Analysis:
+   Cycle 1: 8.6 days (power: 1.01)
+   Cycle 2: 5.6 days (power: 1.04)
+   Cycle 3: 19.3 days (power: 1.06)
+
+📊 NVIDIA Corporation (NVDA)
+--------------------------------------------------
+📅 Seasonal Patterns:
+   Best Month: 5 (1.10%)
+   Worst Month: 4 (0.01%)
+   Best Day: Wed (0.66%)
+   Worst Day: Fri (0.06%)
+🔄 Swing Patterns:
+   Average Swing Duration: 15.1 days
+   Average Swing Magnitude: 3.25%
+   Total Swing Highs: 47
+   Total Swing Lows: 18
+⚡ Momentum Cycles:
+   Average RSI Cycle: 133.5 days
+   Average MACD Cycle: 66.9 days
+🌊 FFT Cycle Analysis:
+   Cycle 1: 7.4 days (power: 1.38)
+   Cycle 2: 10.4 days (power: 1.41)
+   Cycle 3: 7.3 days (power: 1.46)
+
+📊 Novo Nordisk A/S (NVO)
+--------------------------------------------------
+📅 Seasonal Patterns:
+   Best Month: 8 (0.59%)
+   Worst Month: 7 (-0.94%)
+   Best Day: Mon (0.11%)
+   Worst Day: Tue (-0.37%)
+🔄 Swing Patterns:
+   Average Swing Duration: 18.5 days
+   Average Swing Magnitude: -0.97%
+   Total Swing Highs: 37
+   Total Swing Lows: 31
+⚡ Momentum Cycles:
+   Average RSI Cycle: 56.9 days
+   Average MACD Cycle: 57.1 days
+🌊 FFT Cycle Analysis:
+   Cycle 1: 9.6 days (power: 1.03)
+   Cycle 2: 5.7 days (power: 1.10)
+   Cycle 3: 62.6 days (power: 1.10)
+
+🎯 OVERALL CONCLUSIONS
+--------------------------------------------------
+Most Cyclical Stock: Genentech (Roche)
+Least Cyclical Stock: Eli Lilly and Company
+
+💡 KEY INSIGHTS:
+• All stocks show some degree of cyclical behavior
+• Seasonal patterns vary significantly between companies
+• Swing patterns can be used for timing entries/exits
+• Momentum cycles provide additional trading signals
+• FFT analysis reveals hidden periodic patterns

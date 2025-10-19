@@ -1,0 +1,12 @@
+{
+  "download_timestamp": "2025-10-19T01:41:57.802887",
+  "total_intervals": 8,
+  "total_stocks": 5,
+  "intervals_downloaded": [
+    "30m",
+    "1h",
+    "5m",
+    "15m"
+  ],
+  "total_records": "60471"
+}
